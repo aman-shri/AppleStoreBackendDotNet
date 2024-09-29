@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4+tINnAAzv72MRbFJVmsefAWL7sDQoXZZRnZeLUb8cQ=",
+  "Source": "AppleStoreBackend",
+  "BasePath": "_content/AppleStoreBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
